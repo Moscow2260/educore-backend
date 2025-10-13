@@ -1,0 +1,6 @@
+@Educore_LMS_HostAddress = http://localhost:5125
+
+GET {{Educore_LMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
